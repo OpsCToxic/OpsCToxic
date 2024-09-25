@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @opsctoxic
 - 👀 I’m interested in full stack and machine learning
-- 🌱 I’m currently learning vuejs
+- 🌱 I’m currently learning vuejs for a real estate saas project
